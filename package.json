@@ -1,0 +1,24 @@
+{
+  "name": "extinct-mammals",
+  "version": "1.0.0",
+  "description": "extinct-mammals ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevMountain/extinct-mammals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevMountain/extinct-mammals/issues"
+  },
+  "homepage": "https://github.com/DevMountain/extinct-mammals",
+  "dependencies": {
+    "express": "^4.10.1",
+    "mongoose": "^3.8.18"
+  }
+}
